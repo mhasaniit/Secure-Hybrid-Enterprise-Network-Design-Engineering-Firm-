@@ -33,3 +33,5 @@ This project presents a secure hybrid enterprise network architecture designed f
 - Implementation strategy
 ## Purpose
 The goal of this project was to design a secure, scalable, and compliant network capable of protecting sensitive government data while maintaining high availability and operational efficiency.
+## Network Diagram 
+<img width="1536" height="1024" alt="Final Project Diagram" src="https://github.com/user-attachments/assets/8799e864-3a40-46a7-a454-a03d770734de" />
